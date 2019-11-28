@@ -1,0 +1,14 @@
+function histn = histnorm(img)
+    [l, c] = size(img);
+    T = l*c;    % Quantidade total de pixels na imagem
+    
+    %% Obtendo histograma
+    
+    
+    
+    for i = 1:256
+        
+    end
+    
+    
+end
